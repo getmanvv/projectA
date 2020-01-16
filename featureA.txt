@@ -2,3 +2,4 @@ add featureA
 featureA-1
 featureA-2
 featureA-3
+featureA-5
