@@ -5,3 +5,5 @@ featureA-3
 featureA-4
 featureA-5
 featureA-6
+featureD-1
+featureD-2
